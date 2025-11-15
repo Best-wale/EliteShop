@@ -1,0 +1,47 @@
+
+#=============================================================Backend======================================================
+backend/media/
+# Ignore all files in the media directory
+backend/migrations/
+# Ignore all migration files
+backend/__pycache__/
+# Ignore Python cache files
+backend/db.sqlite3
+# Ignore SQLite database file
+test.http
+# Ignore HTTP test files
+backend/.ebextensions/
+backend/staticfiles/
+backend/.env
+backend/env/
+backend/README.md
+backend/elite.zip
+
+#=============================================================Frontend=====================================================
+
+# Logs
+Oja/logs
+Oja/*.log
+Oja/npm-debug.log*
+Oja/yarn-debug.log*
+Oja/yarn-error.log*
+Oja/pnpm-debug.log*
+Oja/lerna-debug.log*
+
+Oja/node_modules/
+Oja/dist
+Oja/dist-ssr
+Oja/*.local
+
+# Editor directories and files
+Oja/.vscode/*
+Oja/!.vscode/extensions.json
+Oja/.idea
+Oja/.DS_Store
+Oja/*.suo
+Oja/*.ntvs*
+Oja/*.njsproj
+Oja/*.sln
+Oja/*.sw?
+
+prototype/
