@@ -38,7 +38,7 @@ This is a full-stack e-commerce web application built with **React** (frontend) 
 
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd OJA
    ```
 2. Install dependencies:
    ```bash
